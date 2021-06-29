@@ -6,11 +6,10 @@ Link:https://predictionflightprice.herokuapp.com/
 
 <img src = "Demo1.png">
 <img src = "Demo2.png">
----
 
 ##Overview
+---
 
---
 This is a Flask web app which predicts fare of Flight ticket.
 
 Technology and tools wise this project covers,
