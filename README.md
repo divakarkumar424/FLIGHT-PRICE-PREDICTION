@@ -37,10 +37,8 @@ Login or signup in order to create virtual app. You can either connect your gith
 
 ***Technologies Used***
 ---
+![1200px-Flask_logo svg](https://user-images.githubusercontent.com/32620288/123795992-3fe3fc80-d902-11eb-925f-99365ccc4554.png)
 
-![1200px-Flask_logo svg](https://user-images.githubusercontent.com/32620288/123794280-4c675580-d900-11eb-82fe-e8fb5bba2386.png)
+![1_U3OFfUPCKV7qMmLRRiiYDA](https://user-images.githubusercontent.com/32620288/123796059-55f1bd00-d902-11eb-956b-286b74ced90b.jpeg)
 
-![1_U3OFfUPCKV7qMmLRRiiYDA](https://user-images.githubusercontent.com/32620288/123794316-5426fa00-d900-11eb-8c3c-6a7ca7549d98.jpeg)
-
-
-![sci](https://user-images.githubusercontent.com/32620288/123794329-5721ea80-d900-11eb-87a9-000e58d63734.png)
+![sci](https://user-images.githubusercontent.com/32620288/123796085-5d18cb00-d902-11eb-8a73-1e029f959fb1.png)
