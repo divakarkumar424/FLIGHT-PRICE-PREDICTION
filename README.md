@@ -32,4 +32,4 @@ Technology and tools wise this project covers,
 ---
 
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ladyleahmattern%2Fheroku-and-you-5b5ffd759c26&psig=AOvVaw0kufdn7Zan7QS2qPgBwAdY&ust=1625053073187000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJDk2NDgvPECFQAAAAAdAAAAABAK">
+<img src = "heroku.png" >
