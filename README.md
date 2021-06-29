@@ -6,7 +6,7 @@ Link:https://predictionflightprice.herokuapp.com/
 
 ![Demo1](https://user-images.githubusercontent.com/32620288/123793947-ee3a7280-d8ff-11eb-8a10-99bb0e5ee415.png)
 
-<img src = "Demo2.png">
+![Demo2](https://user-images.githubusercontent.com/32620288/123794112-1d50e400-d900-11eb-82c9-f0400396ad6d.png)
 
 ***Overview***
 ---
