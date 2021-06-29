@@ -41,10 +41,6 @@ PySocks==1.7.1
 python-dateutil==2.8.1
 pytrends==4.7.3
 pytz==2020.1
-pywedge==0.5.1.8
-pywin32==227
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.2
 scikit-image==0.17.2
