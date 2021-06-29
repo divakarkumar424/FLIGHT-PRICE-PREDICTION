@@ -31,10 +31,9 @@ Technology and tools wise this project covers,
 
 ***Deployement on Heroku***
 ---
-![heroku](https://user-images.githubusercontent.com/32620288/123794250-44a7b100-d900-11eb-916f-cb8acd2fbc67.png)
 
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-<img src = "heroku.png" >
+![heroku](https://user-images.githubusercontent.com/32620288/123794250-44a7b100-d900-11eb-916f-cb8acd2fbc67.png)
 
 ***Technologies Used***
 ---
