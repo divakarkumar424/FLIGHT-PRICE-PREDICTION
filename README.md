@@ -31,6 +31,7 @@ Technology and tools wise this project covers,
 
 ***Deployement on Heroku***
 ---
+![heroku](https://user-images.githubusercontent.com/32620288/123794250-44a7b100-d900-11eb-916f-cb8acd2fbc67.png)
 
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 <img src = "heroku.png" >
@@ -38,3 +39,9 @@ Login or signup in order to create virtual app. You can either connect your gith
 ***Technologies Used***
 ---
 
+![1200px-Flask_logo svg](https://user-images.githubusercontent.com/32620288/123794280-4c675580-d900-11eb-82fe-e8fb5bba2386.png)
+
+![1_U3OFfUPCKV7qMmLRRiiYDA](https://user-images.githubusercontent.com/32620288/123794316-5426fa00-d900-11eb-8c3c-6a7ca7549d98.jpeg)
+
+
+![sci](https://user-images.githubusercontent.com/32620288/123794329-5721ea80-d900-11eb-87a9-000e58d63734.png)
