@@ -33,3 +33,7 @@ Technology and tools wise this project covers,
 
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 <img src = "heroku.png" >
+
+***Technologies Used***
+---
+
