@@ -27,3 +27,6 @@ Technology and tools wise this project covers,
 6.Python flask for http server
 
 7.HTML/CSS for UI
+
+***Deployement on Heroku***
+---
