@@ -44,7 +44,7 @@ Login or signup in order to create virtual app. You can either connect your gith
 ![sci](https://user-images.githubusercontent.com/32620288/123796085-5d18cb00-d902-11eb-8a73-1e029f959fb1.png)
 
 ***Future Scope***
-Use multiple Algorithms
-Optimize Flask app.py
-Front-End
-* Check best paramters and best score
+---
+* Use multiple Algorithms
+* Optimize Flask app.py
+* Front-End
