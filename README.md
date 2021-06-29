@@ -4,7 +4,8 @@
 ---
 Link:https://predictionflightprice.herokuapp.com/
 
-<img src = "Demo1.png">
+![Demo1](https://user-images.githubusercontent.com/32620288/123793947-ee3a7280-d8ff-11eb-8a10-99bb0e5ee415.png)
+
 <img src = "Demo2.png">
 
 ***Overview***
